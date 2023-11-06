@@ -22,7 +22,7 @@
 
 
 ### Practice Day 01(M 2.5)
-[Practice Day 01]().
+[Practice Day 01](https://docs.google.com/document/d/1XQp5lMA9O5rfkyFO5orv6Vcl8R85r1l0bcpMI1ce3No/edit).
 
 
 ### Module 03

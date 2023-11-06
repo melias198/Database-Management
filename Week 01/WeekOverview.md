@@ -35,7 +35,7 @@
 ```
 
 ### Practice Day 02(M 3.5)
-[Practice Day 02]().
+[Practice Day 02](https://docs.google.com/document/d/1_5EmouCL61BxhO-HnjfsXBgzmnTgJXgBdgMaDWSGQck/edit).
 
 
 ### Module 04(Assignment 01)

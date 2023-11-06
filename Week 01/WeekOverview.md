@@ -39,4 +39,4 @@
 
 
 ### Module 04(Assignment 01)
-[Assignment 01]().
+[Assignment 01](https://docs.google.com/document/d/1_mUcBBF-hJeksLfsVb9EzfdZyXuesVz_k5GOOGkxfkc/edit).

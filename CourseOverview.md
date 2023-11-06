@@ -22,7 +22,8 @@
 
 
 ### Practice Day 01(M 2.5)
-[Practice Day 01]().
+[Practice Day 01](https://docs.google.com/document/d/1XQp5lMA9O5rfkyFO5orv6Vcl8R85r1l0bcpMI1ce3No/edit).
+
 
 
 ### Module 03
@@ -35,8 +36,8 @@
 ```
 
 ### Practice Day 02(M 3.5)
-[Practice Day 02]().
+[Practice Day 02](https://docs.google.com/document/d/1_5EmouCL61BxhO-HnjfsXBgzmnTgJXgBdgMaDWSGQck/edit).
 
 
 ### Module 04(Assignment 01)
-[Assignment 01]().
+[Assignment 01](https://docs.google.com/document/d/1_mUcBBF-hJeksLfsVb9EzfdZyXuesVz_k5GOOGkxfkc/edit).

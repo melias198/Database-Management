@@ -18,7 +18,7 @@
 ```
 
 ### Practice Day 01(M 14.5)
-[Practice Day 01]()
+[Practice Day 01](https://docs.google.com/document/d/1PWi7xyvaOvtPHV34sSRt9BoAJOBztANvKrYBG9fpPJk/edit)
 
 
 ### Module 15
@@ -32,9 +32,9 @@
 ```
 
 ### Practice Day 01(M 14.5)
-[Practice Day 02]()
+[Practice Day 02](https://docs.google.com/document/d/1affEe-ZxfR95gGa1JSpVQl726YWYssa_ZbJ0fwnf5kc/edit)
 
 
 ### Final Exam(M 15)
-[Final Exam]()
+[Final Exam](https://docs.google.com/document/d/1lG8a7lSL3o7G-0WSoQgeRVKcSpA7zThAkbHw_cAlH50/edit)
 
